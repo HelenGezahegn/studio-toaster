@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":498.6666666666667,"scrollY":320.6666666666667},
-{"id":2,"expanded":true,"name":"MAP002","order":3,"parentId":0,"scrollX":498.6666666666667,"scrollY":320.6666666666667},
-{"id":3,"expanded":false,"name":"MAP003","order":2,"parentId":1,"scrollX":807.3333333333334,"scrollY":440.6666666666667},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":570,"scrollY":641.3333333333334},
+{"id":2,"expanded":true,"name":"MAP002","order":3,"parentId":0,"scrollX":570,"scrollY":641.3333333333334},
+{"id":3,"expanded":false,"name":"MAP003","order":2,"parentId":1,"scrollX":668.6666666666666,"scrollY":634.6666666666666},
 {"id":4,"expanded":true,"name":"Lobby","order":5,"parentId":0,"scrollX":810.6666666666666,"scrollY":619.3333333333334},
-{"id":5,"expanded":false,"name":"Seth's Chasm Level","order":4,"parentId":0,"scrollX":973.3333333333334,"scrollY":340}
+{"id":5,"expanded":false,"name":"Seth's Chasm Level","order":4,"parentId":0,"scrollX":643.3333333333334,"scrollY":630.6666666666666}
 ]
