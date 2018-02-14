@@ -9,5 +9,7 @@ null,
 {"id":7,"expanded":true,"name":"dark room","order":7,"parentId":0,"scrollX":613.3333333333334,"scrollY":454.6666666666667},
 {"id":8,"expanded":true,"name":"Chasm Difficult","order":8,"parentId":0,"scrollX":428,"scrollY":318},
 {"id":9,"expanded":false,"name":"Chasm Tutorial","order":9,"parentId":0,"scrollX":802.6666666666666,"scrollY":649.3333333333334},
-{"id":10,"expanded":false,"name":"Black and White Hub","order":10,"parentId":0,"scrollX":613.3333333333334,"scrollY":454.6666666666667}
+{"id":10,"expanded":true,"name":"Black and White Hub","order":10,"parentId":0,"scrollX":1041.3333333333333,"scrollY":444},
+{"id":11,"expanded":true,"name":"Grey Hub","order":11,"parentId":10,"scrollX":1938.6666666666667,"scrollY":444},
+{"id":12,"expanded":true,"name":"Blue Hub","order":12,"parentId":11,"scrollX":1742.6666666666667,"scrollY":444}
 ]
