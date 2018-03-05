@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":5,"characterName":"aa_player_spritesheet","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"aa_our_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sprite_0","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"aa_player_spritesheet","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"aa_our_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sprite_0","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":7,"characterName":"$aa_level_1_grump","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"aa_our_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Grump_0","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":7,"characterName":"","classId":3,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"aa_our_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Slim","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
