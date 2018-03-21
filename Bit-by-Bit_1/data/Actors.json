@@ -1,4 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":5,"characterName":"player_spritesheet","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"bl","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bloo","nickname":"","note":"","profile":""}
+
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"aa_player_spritesheet","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"bl","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bloo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"aa_player_spritesheet","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"characterportrait1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ascci","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":6,"characterName":"aa_player_spritesheet","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"aa_our_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"bloo high","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$$villainsprite","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"zzzz","traits":[],"initialLevel":1,"maxLevel":99,"name":"trianglehead","nickname":"","note":"","profile":""}
+
 ]
